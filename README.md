@@ -1,2 +1,2 @@
 # timetolearngit
-Mijn eerste kennismaking van GitHub.
+Mijn eerste kennismaking met GitHub.
